@@ -1,0 +1,6 @@
+.env
+.idea
+/justfile
+.DS_Store
+.venv/
+__pycache__/
