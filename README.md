@@ -117,3 +117,8 @@ If you use this repository or the PHEB benchmark in your work, please cite:
   doi = {10.63317/2o3fvueefvwj}
 }
 ```
+
+## License
+
+The source code in this repository is licensed under the Apache 2.0 License.
+The dataset should be utilized only for academic research purposes under educational/fair use principles.
